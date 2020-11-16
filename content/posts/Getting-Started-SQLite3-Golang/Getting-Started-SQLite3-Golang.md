@@ -2,13 +2,20 @@
 title: "Getting Started SQLite3 Golang"
 date: 2019-08-05T05:15:47-05:00
 draft: false
-image: ["sqlitecoveriamge.jpg"]
+author: "David Walker"
+authorLink: "https://dawalker.dev"
+description: "This article goes through connecting Golang to SQLite3."
+resources:
+- name: "featured-image"
+  src: "featured-image.jpg"
 tags: [
 	"golang",
 	"development",
 	"howto"
 ]
-type: "post"
+categories: ["development",
+				"howto"
+				]
 
 ---
 
