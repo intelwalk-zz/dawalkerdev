@@ -1,13 +1,12 @@
 ---
-title: "Getting Started SQLite3 Golang"
+title: "Getting Started With SQLite3 And Golang"
 date: 2019-08-05T05:15:47-05:00
 draft: false
 author: "David Walker"
 authorLink: "https://dawalker.dev"
 description: "This article goes through connecting Golang to SQLite3."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
+featuredImage: "sqlitecoveriamge.jpg"
+featuredImagePreview: "sqlitecoveriamge.jpg"
 tags: [
 	"golang",
 	"development",
@@ -17,6 +16,10 @@ categories: ["development",
 				"howto"
 				]
 
+lightgallery: true
+
+toc:
+  auto: false
 ---
 
 # <center>Connecting to a SQLite Database using Golang</center>

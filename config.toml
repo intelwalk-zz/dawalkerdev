@@ -133,7 +133,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/avatar.jpg"
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
@@ -268,7 +268,6 @@ enableEmoji = true
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    # 自定义内容 (支持 HTML 格式)
     custom = ''
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
