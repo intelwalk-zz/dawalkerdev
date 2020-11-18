@@ -41,14 +41,14 @@ theme = "hyde-hyde"
     #UtterancesTheme = "..." # github-light or github-dark
 
     # Table of contents
-    #toc = none, "hugo", or "tocbot"
+    #toc = "hugo" #none, "hugo", or "tocbot"
 
 ## Social Accounts
 [params.social]
     github = "intelwalk"
     #instagram = "<username>"
     #xing = "<username>"
-    linkedin = "<username>"
+    linkedin = "intelwalk"
     twitter = "intelwalk"
     #facebook = "<username>"
     #microblog = "<username>"
