@@ -1,8 +1,8 @@
 ## Basic Configuration
-baseurl = "https://dawalker.dev/"
+baseurl = "https://example.com/"
 languageCode = "en"
 
-title = "WalkArc Solutions"
+title = "Title"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -12,11 +12,11 @@ theme = "hyde-hyde"
 
 # summarylength = 30
 
-#paginate = 10
+#paginate = 5
 
 ## Site Settings
 [params]
-    author = "Dawalker"
+    author = "Author"
     title = "Title"
     # description = "..."
     authorimage = "/img/hugo.png"
@@ -24,11 +24,11 @@ theme = "hyde-hyde"
 
     # sidebar, copyright & license
     #logoimage = "/img/hugo.png"
-    copyright = "dawalker solutions"
+    copyright = "htr3n"
     since = 2019
     license = "CC BY-SA 4.0"
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-    showBuiltWith = false
+    showBuiltWith = true
 
     # https://highlightjs.org
     highlightjs = true
@@ -45,17 +45,17 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "intelwalk"
-    #instagram = "<username>"
-    #xing = "<username>"
+    github = "<username>"
+    instagram = "<username>"
+    xing = "<username>"
     linkedin = "<username>"
-    twitter = "intelwalk"
-    #facebook = "<username>"
-    #microblog = "<username>"
-    #stackoverflow = "<username>"
-    #telegram = "<username>"
+    twitter = "<username>"
+    facebook = "<username>"
+    microblog = "<username>"
+    stackoverflow = "<username>"
+    telegram = "<username>"
     # orcid = "<xxxx-xxxx-xxxx-xxxx>"
-    email = "intelwalk@gmail.com"
+    email = "your-email@example.com"
     # gravatar = "your-email@example.com"
     # pgpkey = "<path-to-your-key-in-/static>"
 
