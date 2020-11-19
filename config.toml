@@ -20,7 +20,7 @@ paginate = 10
     author = "Dawalker"
     title = "Title"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/avatar.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
