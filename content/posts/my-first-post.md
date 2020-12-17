@@ -7,7 +7,7 @@ author: "David Walker"
 authorLink: "https://dawalker.dev"
 #description: "My Personal Manifesto."
 featuredImage: "deadendpost.jpg"
-#featuredImagePreview: "deadendpost.jpg"
+featuredImagePreview: "deadendpost.jpg"
 tags: [
 	"golang",
 	"development",
