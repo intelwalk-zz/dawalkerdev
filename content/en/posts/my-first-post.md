@@ -17,7 +17,6 @@ categories: ["development",
 				"howto"
 				]
 
-lightgallery: true
 ---
 
 # <center>Why Am I Writing This?</center>

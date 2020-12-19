@@ -2,6 +2,7 @@
 title: "Getting Started With SQLite3 And Golang"
 date: 2019-08-05T05:15:47-05:00
 draft: false
+image: featured-imaged.jpg
 tags: [
 	"golang",
 	"development",
