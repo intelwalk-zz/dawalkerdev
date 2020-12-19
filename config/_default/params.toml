@@ -56,14 +56,13 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-bioImageUrl = ""
+myname = "dawalker"
+email = "intelwalk@gmail.com"
+whoami = "Father, Husband, IT Manager, Coder, and Potential Lunch Winner"
+bioImageUrl = "avatar.jpg"
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "NW, Alabama"
+link = "https://dawalker.dev"
 
 # sidebar
 enableBio = true
@@ -100,7 +99,7 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # rss
-updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updatePeriod = "weekly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = ""
 fullContents = false
 
@@ -157,11 +156,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:intelwalk@gmail.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = "www.twitter.com/intelwalk"
+  github = "https://github.com/intelwalk"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
