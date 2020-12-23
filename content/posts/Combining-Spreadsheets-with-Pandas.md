@@ -1,6 +1,6 @@
 ---
 title: "Combining Spreadsheets with Pandas"
-date: 2020-08-05T05:15:47-05:00
+date: 2020-12-22T05:15:47-05:00
 draft: false
 image: pandaspython.jpeg
 tags: [
