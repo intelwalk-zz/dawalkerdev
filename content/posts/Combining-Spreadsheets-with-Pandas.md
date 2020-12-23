@@ -1,7 +1,8 @@
 ---
 title: "Combining Spreadsheets with Pandas"
 date: 2020-08-05T05:15:47-05:00
-draft: true
+draft: false
+image: pandaspython.jpeg
 tags: [
 	"python",
 	"development",
