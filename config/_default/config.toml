@@ -1,6 +1,6 @@
 baseURL = "https://dawalker.dev"
 title = "WalkArc Solutions"
-theme = "zzo"
+theme = "zzo2"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
