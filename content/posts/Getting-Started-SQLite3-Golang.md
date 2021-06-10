@@ -9,6 +9,7 @@ tags: [
 	"howto"
 ]
 categories: ["development",
+				"golang",
 				"howto"
 				]
 
